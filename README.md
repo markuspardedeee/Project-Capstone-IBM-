@@ -1,10 +1,6 @@
 # Project-Capstone-IBM-
 Trashtype Classification CNN
 
-Baik! Berdasarkan isi proyekmu (dari file notebook dan slide yang kamu kirim sebelumnya), berikut adalah **README.md** yang sudah disesuaikan secara spesifik dengan proyek CNN klasifikasi gambar jenis sampah (dengan 6 kelas) yang kamu buat. Ini sudah disesuaikan agar *penilai tidak bingung* dan langsung paham:
-
----
-
 # 🧠 CNN untuk Klasifikasi Jenis Sampah
 
 ## 📌 Deskripsi Proyek
@@ -106,6 +102,3 @@ Model CNN yang dibangun berhasil melakukan klasifikasi gambar sampah ke dalam 6 
 * Dokumentasi [TensorFlow](https://www.tensorflow.org/)
 * Tutorial CNN Keras: [https://keras.io/examples/vision/image\_classification\_from\_scratch/](https://keras.io/examples/vision/image_classification_from_scratch/)
 * Dataset: https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
----
-
-Kalau kamu butuh README-nya dalam bentuk file `.md`, aku bisa bantu generate juga. Mau?
